@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Networking</string>
+    <string name="overview">Overview:</string>
+    <string name="play_to_film">Choose film</string>
+    <string name="click_me">Сlick me</string>
+
+    <string-array name="images">
+        <item> https://www.themoviedb.org/t/p/w1280/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg </item>
+        <item> https://www.themoviedb.org/t/p/w1280/ygPTrycbMSFDc5zUpy4K5ZZtQSC.jpg </item>
+        <item> https://www.themoviedb.org/t/p/w1280/nFjYv60aOwqrGSGYPPIP8yXOxm3.jpg </item>
+        <item> https://www.themoviedb.org/t/p/w1280/wcG47dkutXa3FG9gYqvnVp51p1P.jpg </item>
+        <item> https://www.themoviedb.org/t/p/w1280/pStgVcVSMNDykydPzMTuAiXAb50.jpg </item>
+
+    </string-array>
+
+    <string-array name="overview">
+        <item> Ex-cop James Malone is serving a life sentence for a crime he didn’t commit.
+               He is offered a chance at freedom if he can survive a deadly game of Apex, in which
+               six hunters pay for the pleasure of hunting another human on a remote island.
+               He accepts, and once he arrives, all hell breaks loose. </item>
+        <item> The charming dog Clifford lives in an ordinary family. Thanks to boundless love and
+               care, the little red puppy has grown to gigantic proportions. An unusual creature
+               immediately attracts the attention of a greedy corporation that has planned something
+               very evil. Together with his two-legged friends,
+               Clifford must thwart their insidious plans. </item>
+        <item> Marie, HR manager of a small company, is forced to receive Gabriel, his new assistant.
+               She does not like him. Why does he make her life a living hell? What if a secret
+               united them? Did Gabriel know her in the past? </item>
+        <item> With her deadline fast approaching, Mimi the cat panics across the vast halls of a
+               tech company on a mission to gain approval from her uncaring superiors. </item>
+        <item> Los Angeles in 2045. A policeman and his robotic partner enter a forbidden enclave
+               inhabited by people affected by an unknown disease. Together, the heroes discover
+               the real cause of the disease and do everything to stop it. </item>
+    </string-array>
+
+    <string-array name="titles">
+        <item> Apex </item>
+        <item> Clifford </item>
+        <item> Sigma </item>
+        <item> Good Job </item>
+        <item> Android Cop </item>
+    </string-array>
+
+    <string-array name="vote_average">
+        <item> 5.6/10 </item>
+        <item> 8/10 </item>
+        <item> 10/10 </item>
+        <item> 8/10 </item>
+        <item> 4.2/10 </item>
+    </string-array>
+</resources>
